@@ -80,6 +80,10 @@ Below is a summary table showing the metrics for Train, Validation, and Test dat
 | Accuracy    | N/A     | N/A        | 0.768657   |
 | AIR         | N/A     | N/A        | 0.768657   |
 
+The chart below shows the model's heatmap 
+![Correlation Heatmap of Titanic](download.png)
+
+
  
   - # Model Card: Decision Tree Classifier
 
@@ -90,7 +94,7 @@ This model is a Decision Tree Classifier trained to predict *Survival Status*:
 
 The chart below illustrates the model's performance based on tree depth, showcasing the Training AUC and Validation AUC.
 
-![Tree Depth vs. Training and Validation AUC](image.png)
+![Tree Depth vs. Training and Validation AUC](download.png)
 
 ---
 
