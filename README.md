@@ -81,7 +81,7 @@ Below is a summary table showing the metrics for Train, Validation, and Test dat
 | AIR         | N/A     | N/A        | 0.768657   |
 
 The chart below shows the model's heatmap 
-![Correlation Heatmap of Titanic](download.png)
+![Correlation Heatmap of Titanic](Heatmap.png)
 
 
  
